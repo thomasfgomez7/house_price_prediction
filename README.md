@@ -5,7 +5,7 @@ In this project we take a [Properati](https://www.properati.com.ar/ "Properati")
 
 After that, we're going to jump into the ML Model, for this task we're going to apply cross-validation to the dataset and use Linear Regression Model, Lasso and Ridge Regressions, and Random Forest Model with GridSearchCV. 
 
-## 1. Perform EDA (exploratory data analysis) and Data Wrangling
+## 1. Perform EDA (exploratory data analysis), Data Wrangling and Data Cleaning
 
 This dataset has extremely messy data, null values, no meaningful features, and duplicated values. 
 
